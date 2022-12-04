@@ -18,4 +18,4 @@ Homework at the Pytorch course MIREA
 * ***Домашнее задание 5:*** *Используя один линейный слой nn.Linear и один входной тензор x подберите подберите размерности так, чтобы занимать всю видеопамять. Попробуйте применить линейный слой к тензору x. Что произойдет? Кратко опишите ваши эксперименты.*
 
 *Первые практические задания*
-[пр1] (https://github.com/AlexeyLunyakov/mirea_pytorch_hw/blob/main/Pr_tasks_1_pytorch.ipynb)
+[пр1](https://github.com/AlexeyLunyakov/mirea_pytorch_hw/blob/main/Pr_tasks_1_pytorch.ipynb)
